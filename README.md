@@ -58,6 +58,10 @@ User Roles & Features:-
             - cd vite-project
             - npm install
             - npm run dev
+   
+* Login as admin:-
+                - email:admin@123test.com
+                - password:Admin@123
 
 * Author
 - Dnyaneshwar Dadabhau Patil
